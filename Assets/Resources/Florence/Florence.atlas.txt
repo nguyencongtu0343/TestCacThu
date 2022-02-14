@@ -1,0 +1,440 @@
+
+Florence.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/armL1
+  rotate: true
+  xy: 368, 519
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+3/armL1
+  rotate: true
+  xy: 368, 519
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+armL1
+  rotate: true
+  xy: 368, 519
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+2/armL2
+  rotate: false
+  xy: 166, 507
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 166, 507
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+2/armR1
+  rotate: true
+  xy: 235, 511
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+3/armR1
+  rotate: true
+  xy: 235, 511
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+armR1
+  rotate: true
+  xy: 235, 511
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+2/armR2
+  rotate: true
+  xy: 170, 4
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+3/armR2
+  rotate: true
+  xy: 170, 4
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: true
+  xy: 170, 4
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+2/cloak
+  rotate: false
+  xy: 901, 565
+  size: 239, 121
+  orig: 239, 121
+  offset: 0, 0
+  index: -1
+2/cloak back
+  rotate: true
+  xy: 919, 742
+  size: 280, 244
+  orig: 280, 244
+  offset: 0, 0
+  index: -1
+2/hair
+  rotate: true
+  xy: 697, 530
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+3/hair
+  rotate: true
+  xy: 697, 530
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 697, 530
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+2/hairback1
+  rotate: true
+  xy: 642, 123
+  size: 64, 200
+  orig: 64, 200
+  offset: 0, 0
+  index: -1
+3/hairback1
+  rotate: true
+  xy: 642, 123
+  size: 64, 200
+  orig: 64, 200
+  offset: 0, 0
+  index: -1
+hairback1
+  rotate: true
+  xy: 642, 123
+  size: 64, 200
+  orig: 64, 200
+  offset: 0, 0
+  index: -1
+2/hairback2
+  rotate: false
+  xy: 194, 99
+  size: 345, 406
+  orig: 345, 406
+  offset: 0, 0
+  index: -1
+3/hairback2
+  rotate: false
+  xy: 194, 99
+  size: 345, 406
+  orig: 345, 406
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: false
+  xy: 194, 99
+  size: 345, 406
+  orig: 345, 406
+  offset: 0, 0
+  index: -1
+2/handL
+  rotate: false
+  xy: 446, 4
+  size: 55, 56
+  orig: 57, 56
+  offset: 1, 0
+  index: -1
+3/handL
+  rotate: false
+  xy: 446, 4
+  size: 55, 56
+  orig: 57, 56
+  offset: 1, 0
+  index: -1
+handL
+  rotate: false
+  xy: 446, 4
+  size: 55, 56
+  orig: 57, 56
+  offset: 1, 0
+  index: -1
+2/handR
+  rotate: false
+  xy: 109, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+3/handR
+  rotate: false
+  xy: 109, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 109, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+2/head
+  rotate: false
+  xy: 557, 526
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+3/head
+  rotate: false
+  xy: 557, 526
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 557, 526
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+2/new
+  rotate: false
+  xy: 471, 62
+  size: 66, 35
+  orig: 66, 36
+  offset: 0, 1
+  index: -1
+2/robe
+  rotate: false
+  xy: 688, 688
+  size: 229, 334
+  orig: 229, 334
+  offset: 0, 0
+  index: -1
+2/staff
+  rotate: true
+  xy: 2, 31
+  size: 473, 84
+  orig: 474, 84
+  offset: 1, 0
+  index: -1
+2/vong dau
+  rotate: false
+  xy: 539, 63
+  size: 152, 34
+  orig: 152, 38
+  offset: 0, 4
+  index: -1
+3/armL2
+  rotate: true
+  xy: 541, 115
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+3/brooch1
+  rotate: false
+  xy: 534, 16
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+3/capeL
+  rotate: true
+  xy: 797, 23
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+3/capeR
+  rotate: false
+  xy: 248, 8
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+3/cloak back
+  rotate: true
+  xy: 486, 661
+  size: 361, 200
+  orig: 361, 200
+  offset: 0, 0
+  index: -1
+3/robe
+  rotate: false
+  xy: 541, 189
+  size: 331, 334
+  orig: 331, 334
+  offset: 0, 0
+  index: -1
+3/staff
+  rotate: true
+  xy: 2, 506
+  size: 516, 162
+  orig: 516, 162
+  offset: 0, 0
+  index: -1
+3/vong dau
+  rotate: false
+  xy: 327, 62
+  size: 142, 35
+  orig: 142, 41
+  offset: 0, 6
+  index: -1
+EFF/cresent1
+  rotate: false
+  xy: 503, 4
+  size: 29, 56
+  orig: 30, 57
+  offset: 0, 1
+  index: -1
+EFF/cresent2
+  rotate: true
+  xy: 314, 2
+  size: 56, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+EFF/dot sharp center alpha
+  rotate: false
+  xy: 558, 32
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+EFF/fx/glow_6164
+  rotate: false
+  xy: 485, 525
+  size: 70, 76
+  orig: 102, 102
+  offset: 16, 21
+  index: -1
+EFF/fx/mask_11011
+  rotate: false
+  xy: 693, 19
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+EFF/glow dot
+  rotate: false
+  xy: 368, 511
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+EFF/glow dot blurred
+  rotate: false
+  xy: 238, 56
+  size: 41, 41
+  orig: 49, 49
+  offset: 4, 4
+  index: -1
+EFF/glow dot blurred 50
+  rotate: false
+  xy: 194, 55
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+EFF/trail_9001
+  rotate: false
+  xy: 27, 3
+  size: 50, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+EFF/wind1
+  rotate: false
+  xy: 2, 2
+  size: 23, 27
+  orig: 24, 37
+  offset: 1, 8
+  index: -1
+EFF/wind22
+  rotate: true
+  xy: 88, 32
+  size: 21, 16
+  orig: 21, 18
+  offset: 0, 2
+  index: -1
+chim
+  rotate: true
+  xy: 166, 603
+  size: 419, 318
+  orig: 425, 326
+  offset: 3, 4
+  index: -1
+cloak
+  rotate: false
+  xy: 863, 63
+  size: 225, 124
+  orig: 225, 124
+  offset: 0, 0
+  index: -1
+cloak back
+  rotate: true
+  xy: 1105, 337
+  size: 226, 222
+  orig: 226, 222
+  offset: 0, 0
+  index: -1
+glow_5027
+  rotate: false
+  xy: 281, 60
+  size: 44, 37
+  orig: 51, 51
+  offset: 4, 7
+  index: -1
+hand2
+  rotate: false
+  xy: 79, 5
+  size: 28, 24
+  orig: 32, 26
+  offset: 2, 1
+  index: -1
+new
+  rotate: true
+  xy: 382, 4
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+robe
+  rotate: false
+  xy: 874, 194
+  size: 229, 334
+  orig: 229, 334
+  offset: 0, 0
+  index: -1
+staff
+  rotate: true
+  xy: 88, 55
+  size: 449, 104
+  orig: 449, 104
+  offset: 0, 0
+  index: -1

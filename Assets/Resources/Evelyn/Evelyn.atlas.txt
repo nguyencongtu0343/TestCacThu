@@ -1,0 +1,811 @@
+
+Evelyn.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/armB
+  rotate: false
+  xy: 1035, 1030
+  size: 51, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+1/armF
+  rotate: true
+  xy: 1961, 1652
+  size: 49, 74
+  orig: 56, 79
+  offset: 1, 1
+  index: -1
+1/body
+  rotate: false
+  xy: 1158, 449
+  size: 156, 188
+  orig: 156, 188
+  offset: 0, 0
+  index: -1
+1/forearmB
+  rotate: false
+  xy: 1783, 114
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+1/forearmF
+  rotate: true
+  xy: 1374, 320
+  size: 66, 71
+  orig: 67, 73
+  offset: 0, 1
+  index: -1
+1/hairF
+  rotate: true
+  xy: 1650, 690
+  size: 197, 122
+  orig: 197, 124
+  offset: 0, 2
+  index: -1
+1/hand1
+  rotate: true
+  xy: 1652, 891
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+1/legB
+  rotate: true
+  xy: 1693, 170
+  size: 69, 88
+  orig: 70, 88
+  offset: 1, 0
+  index: -1
+1/legF
+  rotate: false
+  xy: 1423, 121
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+1/spear
+  rotate: true
+  xy: 1082, 821
+  size: 66, 566
+  orig: 66, 566
+  offset: 0, 0
+  index: -1
+1/spear spin
+  rotate: false
+  xy: 2, 803
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+1/thighB
+  rotate: false
+  xy: 1266, 180
+  size: 81, 133
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+1/thighF
+  rotate: true
+  xy: 1909, 1521
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+2/armB
+  rotate: true
+  xy: 1925, 521
+  size: 62, 111
+  orig: 62, 112
+  offset: 0, 1
+  index: -1
+2/armF
+  rotate: false
+  xy: 1002, 821
+  size: 78, 114
+  orig: 79, 115
+  offset: 0, 0
+  index: -1
+2/body
+  rotate: true
+  xy: 1721, 1056
+  size: 156, 192
+  orig: 156, 192
+  offset: 0, 0
+  index: -1
+2/forearmB
+  rotate: true
+  xy: 1867, 440
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+2/forearmF
+  rotate: false
+  xy: 1525, 1152
+  size: 64, 60
+  orig: 66, 60
+  offset: 1, 0
+  index: -1
+2/hairF
+  rotate: true
+  xy: 1898, 1322
+  size: 197, 122
+  orig: 197, 124
+  offset: 0, 2
+  index: -1
+2/hand1
+  rotate: true
+  xy: 1788, 241
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+2/legB
+  rotate: false
+  xy: 1575, 620
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+2/legF
+  rotate: false
+  xy: 1545, 196
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+2/spear
+  rotate: true
+  xy: 1086, 889
+  size: 77, 564
+  orig: 78, 566
+  offset: 1, 1
+  index: -1
+2/spear spin
+  rotate: false
+  xy: 139, 1431
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+2/thighB
+  rotate: false
+  xy: 1631, 256
+  size: 81, 133
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+2/thighF
+  rotate: true
+  xy: 1904, 691
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+3/armB
+  rotate: false
+  xy: 1955, 789
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+3/armF
+  rotate: false
+  xy: 1915, 1066
+  size: 91, 146
+  orig: 92, 147
+  offset: 0, 0
+  index: -1
+3/body
+  rotate: true
+  xy: 1719, 891
+  size: 163, 186
+  orig: 163, 186
+  offset: 0, 0
+  index: -1
+3/cape
+  rotate: true
+  xy: 1525, 1435
+  size: 333, 194
+  orig: 333, 194
+  offset: 0, 0
+  index: -1
+3/forearmB
+  rotate: true
+  xy: 1788, 299
+  size: 64, 113
+  orig: 64, 113
+  offset: 0, 0
+  index: -1
+3/forearmF
+  rotate: false
+  xy: 1591, 1152
+  size: 64, 60
+  orig: 66, 60
+  offset: 1, 0
+  index: -1
+3/hairF
+  rotate: true
+  xy: 1340, 491
+  size: 197, 122
+  orig: 197, 124
+  offset: 0, 2
+  index: -1
+3/hand1
+  rotate: false
+  xy: 1851, 177
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+3/legB
+  rotate: false
+  xy: 1571, 50
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+3/legF
+  rotate: false
+  xy: 1423, 18
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+3/spear
+  rotate: true
+  xy: 1088, 968
+  size: 182, 574
+  orig: 184, 576
+  offset: 1, 1
+  index: -1
+3/spear spin
+  rotate: false
+  xy: 717, 1431
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+3/thighB
+  rotate: true
+  xy: 1642, 502
+  size: 77, 133
+  orig: 78, 134
+  offset: 0, 0
+  index: -1
+3/thighF
+  rotate: true
+  xy: 1746, 1219
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+Crimson Knight/armB
+  rotate: false
+  xy: 1349, 77
+  size: 72, 134
+  orig: 74, 136
+  offset: 1, 1
+  index: -1
+Crimson Knight/armF
+  rotate: true
+  xy: 769, 825
+  size: 129, 135
+  orig: 130, 136
+  offset: 1, 0
+  index: -1
+Crimson Knight/body
+  rotate: true
+  xy: 769, 956
+  size: 178, 264
+  orig: 178, 264
+  offset: 0, 0
+  index: -1
+Crimson Knight/forearmB
+  rotate: false
+  xy: 1575, 501
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+Crimson Knight/forearmF
+  rotate: true
+  xy: 1657, 1152
+  size: 60, 62
+  orig: 62, 69
+  offset: 1, 7
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 1349, 213
+  size: 100, 84
+  orig: 130, 372
+  offset: 10, 0
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 1349, 213
+  size: 100, 84
+  orig: 130, 372
+  offset: 10, 0
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00002
+  rotate: true
+  xy: 1784, 584
+  size: 104, 109
+  orig: 130, 372
+  offset: 8, 30
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00002
+  rotate: true
+  xy: 1784, 584
+  size: 104, 109
+  orig: 130, 372
+  offset: 8, 30
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00004
+  rotate: false
+  xy: 1266, 315
+  size: 106, 132
+  orig: 130, 372
+  offset: 5, 52
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00004
+  rotate: false
+  xy: 1266, 315
+  size: 106, 132
+  orig: 130, 372
+  offset: 5, 52
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00006
+  rotate: true
+  xy: 1874, 1214
+  size: 106, 168
+  orig: 130, 372
+  offset: 6, 76
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00006
+  rotate: true
+  xy: 1874, 1214
+  size: 106, 168
+  orig: 130, 372
+  offset: 6, 76
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00007
+  rotate: true
+  xy: 1774, 788
+  size: 101, 179
+  orig: 130, 372
+  offset: 9, 84
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00007
+  rotate: true
+  xy: 1774, 788
+  size: 101, 179
+  orig: 130, 372
+  offset: 9, 84
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00008
+  rotate: true
+  xy: 1464, 391
+  size: 108, 188
+  orig: 130, 372
+  offset: 10, 91
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00008
+  rotate: true
+  xy: 1464, 391
+  size: 108, 188
+  orig: 130, 372
+  offset: 10, 91
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00010
+  rotate: true
+  xy: 1895, 585
+  size: 103, 134
+  orig: 130, 372
+  offset: 16, 196
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00010
+  rotate: true
+  xy: 1895, 585
+  size: 103, 134
+  orig: 130, 372
+  offset: 16, 196
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00011
+  rotate: true
+  xy: 1779, 1521
+  size: 95, 128
+  orig: 130, 372
+  offset: 26, 220
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00011
+  rotate: true
+  xy: 1779, 1521
+  size: 95, 128
+  orig: 130, 372
+  offset: 26, 220
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00012
+  rotate: false
+  xy: 1545, 299
+  size: 84, 90
+  orig: 130, 372
+  offset: 32, 270
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00012
+  rotate: false
+  xy: 1545, 299
+  size: 84, 90
+  orig: 130, 372
+  offset: 32, 270
+  index: -1
+Crimson Knight/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00013
+  rotate: false
+  xy: 1936, 385
+  size: 53, 53
+  orig: 130, 372
+  offset: 57, 305
+  index: -1
+Order of light/fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00013
+  rotate: false
+  xy: 1936, 385
+  size: 53, 53
+  orig: 130, 372
+  offset: 57, 305
+  index: -1
+Crimson Knight/hairB
+  rotate: true
+  xy: 1295, 1770
+  size: 237, 427
+  orig: 237, 427
+  offset: 0, 0
+  index: -1
+Crimson Knight/hairF
+  rotate: false
+  xy: 1525, 1214
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+Crimson Knight/hand1
+  rotate: true
+  xy: 1903, 321
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Crimson Knight/head
+  rotate: false
+  xy: 1340, 694
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+Order of light/head
+  rotate: false
+  xy: 1340, 694
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+Crimson Knight/legB
+  rotate: false
+  xy: 1461, 251
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+Crimson Knight/legF
+  rotate: false
+  xy: 1907, 905
+  size: 90, 149
+  orig: 90, 154
+  offset: 0, 5
+  index: -1
+Crimson Knight/shine
+  rotate: false
+  xy: 1158, 639
+  size: 180, 180
+  orig: 211, 190
+  offset: 18, 4
+  index: -1
+Order of light/shine
+  rotate: false
+  xy: 1158, 639
+  size: 180, 180
+  orig: 211, 190
+  offset: 18, 4
+  index: -1
+Crimson Knight/spear
+  rotate: false
+  xy: 2, 1381
+  size: 135, 626
+  orig: 135, 626
+  offset: 0, 0
+  index: -1
+Crimson Knight/spear spin
+  rotate: false
+  xy: 580, 243
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+Crimson Knight/thighB
+  rotate: false
+  xy: 1499, 92
+  size: 70, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+Crimson Knight/thighF
+  rotate: false
+  xy: 1621, 148
+  size: 70, 106
+  orig: 75, 106
+  offset: 5, 0
+  index: -1
+Order of light/armB
+  rotate: false
+  xy: 906, 821
+  size: 94, 133
+  orig: 94, 138
+  offset: 0, 5
+  index: -1
+Order of light/armF
+  rotate: true
+  xy: 1485, 718
+  size: 101, 150
+  orig: 106, 150
+  offset: 0, 0
+  index: -1
+Order of light/body
+  rotate: true
+  xy: 1724, 1816
+  size: 191, 218
+  orig: 191, 218
+  offset: 0, 0
+  index: -1
+Order of light/cape
+  rotate: true
+  xy: 1295, 1436
+  size: 332, 192
+  orig: 332, 192
+  offset: 0, 0
+  index: -1
+Order of light/fliphairB
+  rotate: false
+  xy: 1035, 944
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Order of light/forearmB
+  rotate: false
+  xy: 1714, 241
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+Order of light/forearmF
+  rotate: false
+  xy: 1867, 379
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Order of light/hairB
+  rotate: true
+  xy: 1088, 1152
+  size: 277, 435
+  orig: 277, 435
+  offset: 0, 0
+  index: -1
+Order of light/hairF
+  rotate: true
+  xy: 1779, 1618
+  size: 196, 180
+  orig: 196, 180
+  offset: 0, 0
+  index: -1
+Order of light/hand1
+  rotate: false
+  xy: 1664, 1089
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Order of light/legB
+  rotate: false
+  xy: 1693, 74
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+Order of light/legF
+  rotate: false
+  xy: 1495, 2
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+Order of light/spear
+  rotate: false
+  xy: 580, 821
+  size: 187, 608
+  orig: 187, 608
+  offset: 0, 0
+  index: -1
+Order of light/spear spin
+  rotate: false
+  xy: 2, 225
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+Order of light/thighB
+  rotate: true
+  xy: 1784, 506
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+Order of light/thighF
+  rotate: false
+  xy: 1961, 1703
+  size: 85, 122
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: true
+  xy: 528, 1382
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 1374, 388
+  size: 101, 85
+  orig: 131, 373
+  offset: 10, 0
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00002
+  rotate: false
+  xy: 1654, 391
+  size: 105, 109
+  orig: 131, 373
+  offset: 8, 30
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00004
+  rotate: true
+  xy: 1650, 581
+  size: 107, 132
+  orig: 131, 373
+  offset: 5, 52
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00006
+  rotate: false
+  xy: 1158, 279
+  size: 106, 168
+  orig: 131, 373
+  offset: 7, 76
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00007
+  rotate: false
+  xy: 1944, 1827
+  size: 102, 180
+  orig: 131, 373
+  offset: 9, 84
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00008
+  rotate: false
+  xy: 1464, 501
+  size: 109, 187
+  orig: 131, 373
+  offset: 10, 92
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00010
+  rotate: false
+  xy: 1761, 365
+  size: 104, 135
+  orig: 131, 373
+  offset: 16, 196
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00011
+  rotate: true
+  xy: 1774, 690
+  size: 96, 128
+  orig: 131, 373
+  offset: 26, 221
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00012
+  rotate: false
+  xy: 1158, 187
+  size: 85, 90
+  orig: 131, 373
+  offset: 32, 270
+  index: -1
+fx/Electricity 004/Elements - Electricity 004 Ray Up noCT noRSZ_00013
+  rotate: false
+  xy: 1981, 466
+  size: 53, 53
+  orig: 131, 373
+  offset: 58, 305
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 528, 1396
+  size: 33, 43
+  orig: 104, 320
+  offset: 33, 3
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00001
+  rotate: true
+  xy: 310, 1393
+  size: 36, 216
+  orig: 104, 320
+  offset: 27, 12
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00002
+  rotate: false
+  xy: 1721, 1521
+  size: 56, 247
+  orig: 104, 320
+  offset: 19, 3
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00007
+  rotate: true
+  xy: 1721, 1462
+  size: 57, 175
+  orig: 104, 320
+  offset: 20, 88
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00009
+  rotate: false
+  xy: 1664, 949
+  size: 53, 138
+  orig: 104, 320
+  offset: 12, 115
+  index: -1
+fx/Electricity 005/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00013
+  rotate: true
+  xy: 139, 1389
+  size: 40, 169
+  orig: 104, 320
+  offset: 13, 122
+  index: -1
+fx/glow dot blurred
+  rotate: false
+  xy: 1002, 937
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+fx/glow star white 4
+  rotate: true
+  xy: 1489, 1752
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+hairB
+  rotate: true
+  xy: 769, 1136
+  size: 293, 317
+  orig: 293, 317
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1746, 1310
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1

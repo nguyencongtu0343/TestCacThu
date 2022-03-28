@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{D6AE61BE-116C-E6FE-77C3-DF67B3A79A28}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,10 +60,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Spine\version.txt" />
+    <None Include="Assets\BansheeGz\BGDatabase\Scripts\BGDatabase.dll" />
+    <None Include="Assets\BansheeGz\BGDatabase\Scripts\link.xml" />
     <None Include="Assets\Resources\Florence\Florence.atlas.txt" />
     <None Include="Assets\Resources\Evelyn\Evelyn.atlas.txt" />
+    <None Include="Assets\BansheeGz\BGDatabase\Third-Party Notices.txt" />
     <None Include="Assets\Resources\Adrius\json update stun + die\Adrius.atlas.txt" />
     <None Include="Assets\Resources\Galidus\Gaulius.atlas.txt" />
+    <None Include="Assets\BansheeGz\BGDatabase\readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -287,6 +291,9 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files (x86)\2020.3.19f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="BGDatabase">
+      <HintPath>Assets\BansheeGz\BGDatabase\Scripts\BGDatabase.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files (x86)\2020.3.19f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -726,23 +733,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Animation.Samples.Runtime.csproj">
-      <Project>{53F2DF7B-455C-8D99-DBE2-4BC2B1DA0C92}</Project>
+      <Project>{965105AD-E42B-2951-8BCA-76D111FA0725}</Project>
       <Name>Unity.2D.Animation.Samples.Runtime</Name>
     </ProjectReference>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{5EFD4A3E-C3A8-9576-AA38-E620C3D350B1}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Samples.Dependency.csproj">
-      <Project>{8657C936-FBA8-E49A-06D1-7D7FD0E879A4}</Project>
+      <Project>{AE22A174-904D-23E4-ABE1-E381757B0182}</Project>
       <Name>Unity.2D.Animation.Samples.Dependency</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Samples.Editor.csproj">
-      <Project>{B91ED842-0A27-BFB0-B0D9-DD8500AFE4CB}</Project>
+      <Project>{58E074E2-498F-FBD5-ECB4-FA7D842922D4}</Project>
       <Name>Unity.2D.Animation.Samples.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="spine-unity.csproj">
-      <Project>{11026DE9-29C6-D3FF-E08B-9E398AEC596E}</Project>
-      <Name>spine-unity</Name>
-    </ProjectReference>
     <ProjectReference Include="spine-unity-editor.csproj">
-      <Project>{09CD6D04-736F-F19C-E128-63B6DCDDF58C}</Project>
+      <Project>{9FDA4C5F-4F55-1008-7824-908E644D3E99}</Project>
       <Name>spine-unity-editor</Name>
     </ProjectReference>
   </ItemGroup>

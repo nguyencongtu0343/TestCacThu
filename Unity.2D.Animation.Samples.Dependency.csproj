@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8657C936-FBA8-E49A-06D1-7D7FD0E879A4}</ProjectGuid>
+    <ProjectGuid>{AE22A174-904D-23E4-ABE1-E381757B0182}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Samples.Dependency</AssemblyName>
@@ -301,6 +301,12 @@
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.9.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="BGDatabaseEditor">
+      <HintPath>Assets\BansheeGz\BGDatabase\Editor\Scripts\BGDatabaseEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="BGDatabase">
+      <HintPath>Assets\BansheeGz\BGDatabase\Scripts\BGDatabase.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.9.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>

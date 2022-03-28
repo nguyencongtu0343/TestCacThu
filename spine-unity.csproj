@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{11026DE9-29C6-D3FF-E08B-9E398AEC596E}</ProjectGuid>
+    <ProjectGuid>{5EFD4A3E-C3A8-9576-AA38-E620C3D350B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>spine-unity</AssemblyName>
@@ -75,8 +75,8 @@
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Event.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonPartsRenderer.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowSkeletonUtilityRootRotation.cs" />
-    <Compile Include="Assets\Spine\Runtime\spine-csharp\SkeletonData.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Asset Types\SpineSpriteAtlasAsset.cs" />
+    <Compile Include="Assets\Spine\Runtime\spine-csharp\SkeletonData.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\ExposedList.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimation.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Asset Types\BlendModeMaterials.cs" />
@@ -112,6 +112,7 @@
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Attachments\Attachment.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataCompatibility.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Mesh Generation\MeshGenerator.cs" />
+    <Compile Include="Assets\Spine\Runtime\spine-csharp\ConstraintData.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Utility\TimelineExtensions.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonRenderSeparator.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\PathConstraintData.cs" />
@@ -132,6 +133,7 @@
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowLocationRigidbody.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonMecanimRootMotion.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Triangulator.cs" />
+    <Compile Include="Assets\Spine\Runtime\spine-unity\Deprecated\SlotBlendModes\SlotBlendModes.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Asset Types\EventDataReferenceAsset.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimationComplete.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\SkeletonClipping.cs" />
@@ -142,17 +144,15 @@
     <Compile Include="Assets\Spine\Runtime\spine-unity\Utility\MaterialChecks.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\SkeletonJson.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Attachments\PointAttachment.cs" />
+    <Compile Include="Assets\Spine\Runtime\spine-csharp\Collections\OrderedDictionary.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Atlas.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonRootMotionBase.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\SkeletonBounds.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Attachments\VertexAttachment.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Components\Following\BoundingBoxFollower.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-csharp\Bone.cs" />
-    <Compile Include="Assets\Spine\Runtime\spine-unity\ISkeletonAnimation.cs" />
-    <Compile Include="Assets\Spine\Runtime\spine-unity\Deprecated\SlotBlendModes\SlotBlendModes.cs" />
-    <Compile Include="Assets\Spine\Runtime\spine-csharp\Collections\OrderedDictionary.cs" />
-    <Compile Include="Assets\Spine\Runtime\spine-csharp\ConstraintData.cs" />
     <Compile Include="Assets\Spine\Runtime\spine-unity\Utility\SkinUtilities.cs" />
+    <Compile Include="Assets\Spine\Runtime\spine-unity\ISkeletonAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Outline\Spine-Skeleton-Lit-Outline.shader" />
@@ -448,6 +448,12 @@
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.9.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="BGDatabaseEditor">
+      <HintPath>Assets\BansheeGz\BGDatabase\Editor\Scripts\BGDatabaseEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="BGDatabase">
+      <HintPath>Assets\BansheeGz\BGDatabase\Scripts\BGDatabase.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.9.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>

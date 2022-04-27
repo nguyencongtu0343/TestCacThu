@@ -23,7 +23,7 @@ public class SpineAnimationController : MonoBehaviour
     {
         if (e.Data.Name == "attack event")
         {
-            Debug.Log("ATTACK");
+            //Debug.Log("ATTACK");
         }
     }
 
